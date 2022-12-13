@@ -1,0 +1,48 @@
+*{
+    
+margin=0;
+    
+}
+.box{
+    width: 200px;
+    height: 200px;
+}
+#box1{
+    
+    background-color: blueviolet;
+    /*display: none;
+    margin: 20px 0;
+    position:absolute;
+    left: 50px;
+    bottom: 20px;
+    position: fixed;
+    right: 0;
+    position: fixed;
+    right:0px;
+    top:50px;*/
+    
+    position: sticky;
+    top:100px;
+    left:100px;
+    
+    
+}
+#box2{
+    
+    background-color: #86ed25;
+}
+#box3{
+    
+    background-color: #d60ecc;
+}
+/*#box11{
+   position: relative;
+   width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    margin: auto;
+    
+}*/
+
+
+

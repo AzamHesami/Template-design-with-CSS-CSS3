@@ -1,0 +1,34 @@
+body{
+    
+    background-color: yellow;
+}
+/*@media screen and (max-width:768px){
+    
+    body{
+         background-color:#11d431;
+        
+    }
+   
+}*/
+
+@media screen and (min-width:768px){
+    
+    body{
+         background-color:#11d431;
+        
+    }
+   
+}
+
+@media screen and (orientation:portrait){
+    
+    body{
+        
+        background-color: darkviolet;
+    }
+    
+    
+}
+
+
+

@@ -1,0 +1,24 @@
+a{
+    
+    text-decoration: none;
+}
+
+#box1{
+  width: 800px;
+    height: 300px;
+    margin:auto;
+    background-color: lightskyblue;
+   
+}
+#box1 p{
+    text-align: justify;
+    text-transform:capitalize;
+    text-indent: 30px;
+}
+#box1 span{
+    text-decoration:line-through;
+    
+}
+#box1 h1{
+   text-transform:capitalize;
+}

@@ -1,0 +1,35 @@
+*{
+    margin=0;
+}
+
+.box{
+   width: 100px;
+    height: outo;
+    background-color: greenyellow;
+    border:10px solid green;
+    padding: 50px;
+    /*padding-top: 10px;
+    padding-bottom: 200px;
+    padding-right: 100px;
+    padding-left: 20px;
+    
+    padding: 50px 200px 100px 20px;
+    padding 120px 100px;
+    padding 20px 50px 100px;*/
+    display:inline-block;
+    margin-right:20px;
+    margin-left: 80px;
+    
+    
+}
+.box2{
+ 
+    background-color: sandybrown;
+    
+}
+
+.box3{
+
+    background-color: blueviolet;
+  
+}*/

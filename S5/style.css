@@ -1,0 +1,52 @@
+/*a:active{
+    background-color: yellow;
+    color:aqua;
+}
+a:link {
+    color:red;
+}
+a:visited {
+    
+    color:blue;
+}
+
+input:enabled{
+    background-color:aquamarine;
+}
+input:disabled{
+    background-color: skyblue;
+}
+
+input:focus{
+    
+    background-color: beige;
+}
+
+input:required{
+    
+    background-color: cornflowerblue
+}
+input:optional{
+    background-color: chartreuse;
+}*/
+
+input:checked{
+     width:30px;
+    height: 30px;
+}
+input:not(:checked){
+ width: 25px;
+ height: 25px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+

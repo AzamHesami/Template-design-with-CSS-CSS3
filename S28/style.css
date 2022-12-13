@@ -1,0 +1,35 @@
+#b1{
+    width: 1200px;
+    height: 500px;
+    background-color: cornflowerblue;
+    margin:auto;
+    
+}
+#b2{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    background-color:darkred;
+    position:relative;
+    left:0;
+
+    /*transition-duration: all ;
+    transition-property:2s ;
+    transition-timing-function:ease;
+    transition-delay:0 ;
+    transition: all 2s,background-color:10s border-radiuse:1s;
+    transition-timing-function: cubic-bezier(0,.99,.98,.03)
+    transition-timing-function:step-start =>steps(1,start);
+    transition-timing-function:step-end =>steps(1,end) */
+    transition: 3s;
+    transition-timing-function: steps(10,start);
+  
+      
+    
+}
+#b1:hover #b2{
+    
+    left:1000px;
+    /*background-color: blueviolet;
+    border-radius: 30%;*/
+}

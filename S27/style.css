@@ -1,0 +1,21 @@
+@font-face{
+    
+    font-family:'Iranian Sans';
+    src:url('fonts/Iranian Sans.ttf') format('trueType');
+    
+    
+}
+@font-face{
+    
+    font-family:'Iranian Sans';
+    src:url('fonts/IRANSansWeb(FaNum)_Bold.ttf') format('trueType');
+    font-weight: bold;
+}
+
+p{
+   font-size: 24px;
+    margin:40px;
+    font-family: Iranian Sans;
+    font-weight: bold;
+      
+}

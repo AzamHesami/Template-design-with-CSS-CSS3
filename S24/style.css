@@ -1,0 +1,13 @@
+#box1{
+    width:700px;
+    height:500px;
+    background:  repeating-radial-gradient(  circle at center,yellow 20%,purple 25% ,red 35% );
+    
+    
+    /*1-background: radial-gradient(circle,yellow,purple);
+     2-background: radial-gradient(rgba(255,0,0,1), rgba(255,0,0,0));
+      background: radial-gradient(rgba(255,0,0,0), rgba(255,0,0,1));
+    background: -webkit-radial-gradient(  20% 40% ,circle,yellow ,purple );
+    background: radial-gradient( closest-side circle at 20% 40%,yellow ,purple );
+    background: radial-gradient( farthest-side circle at 20% 80%,yellow ,purple );*/
+}

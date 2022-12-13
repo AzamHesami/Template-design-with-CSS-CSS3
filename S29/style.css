@@ -1,0 +1,28 @@
+img{
+    
+    /*transform: translate(40px,100px);
+    transform:rotate(50deg);
+    transition: 1s;
+    transform:scale(2);*/
+    
+    transition: 1s;
+    transform:rotate(30deg) translate(100px) scale(1.2) skew(20);
+    
+    
+    
+    
+    
+}
+img:hover{
+    
+    transform: rotate(1turn);
+    border-radius: 100%;
+    
+}
+
+img:active{
+    
+    transform:scale(1.5);
+    cursor: zoom-in;
+    
+}

@@ -1,0 +1,30 @@
+ul{
+    list-style-type: none;
+    list-style-image: url("list.png");
+    list-style-position: outside;
+    
+}
+table,th,td{
+    
+    border:5px solid #aaa;
+}
+table{
+    
+    border-collapse: collapse;
+    width:700px;
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+    margin:auto;
+}
+th, td{
+    
+    padding:10px 40px;
+}
+tr:hover{
+    background-color: #ccc;
+}
+tr:nth-child(even){
+    
+    background-color: #ccc;
+}

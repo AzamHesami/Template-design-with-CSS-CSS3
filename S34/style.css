@@ -1,0 +1,16 @@
+#content{
+   text-align: justify; 
+ /* column-count: 4; */ 
+    column-width: 300px;
+    column-gap: 30px;
+    column-rule: 3px dashed red;
+    
+}
+#img1{
+    
+    display: block;
+    column-span: all;
+    margin: 30px auto;
+    
+    
+}

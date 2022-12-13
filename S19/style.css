@@ -1,0 +1,22 @@
+
+#container .main-content span h1{ < ->112>                             color:red;
+}
+
+
+.main-content span h1{ <->12>
+    color:brown;
+}
+span h1{ < ->2>
+    
+    color:blueviolet;
+}
+
+h1{ <-> 1>
+    color: chartreuse;
+}
+#heading{
+    color:darkblue;
+}
+h2:hover{
+    color:darkred;
+}

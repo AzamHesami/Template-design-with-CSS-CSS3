@@ -1,0 +1,35 @@
+.box{
+    width: 200px;
+    height:200px;
+    position:absolute;
+    top:0;
+    left:0;
+    
+}
+#box1{
+    background-color: darkgreen;
+}
+
+#box2{
+    background-color: #185df0;
+    top:70px;
+    left:70px;
+    opacity: 0.9;
+    z-index: 6;
+}
+#box3{
+    
+    background-color:purple;
+    top:140px;
+    left:140px;
+    opacity: 0.9;
+    z-index: 7;
+}
+
+#box4{
+    background-color:#f018da;
+    top:210px;
+    left:210px;
+    opacity: 0.9;
+    z-index: 8;
+}

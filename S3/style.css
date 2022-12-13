@@ -1,0 +1,18 @@
+input[type=email]{
+    
+    background-color:cadetblue;
+}
+
+p[title ~=web]{
+    color:blueviolet;
+}
+
+p[title *=pro]{
+    color:magenta;
+}
+p[title ^=st]{
+    color:dodgerblue
+}
+p[title $=Script]{
+    color:brown;
+}

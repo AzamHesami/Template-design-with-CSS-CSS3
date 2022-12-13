@@ -1,0 +1,21 @@
+#box1{
+    width:700px;
+    height:500px;
+    border:20px dashed #0f0;
+    padding:25px;
+    background: url(css.png) left top no-repeat,url(b2.jpg) center no-repeat,cornflowerblue ;
+    background-size: 200px,cover, auto;
+    background-origin: content-box
+    
+}
+#box2{
+   width:700px;
+    height:500px;
+    margin-top: 40px;
+    background-color: beige;
+    color:darkgreen;
+    padding:30px;
+    border:15px dashed #00f;
+    background-clip: content-box;
+    
+}

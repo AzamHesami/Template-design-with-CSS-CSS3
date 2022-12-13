@@ -1,0 +1,19 @@
+#t1{
+    width: 200px;
+    height:200px;
+    background-color: darkseagreen;
+    text-align: justify;
+     white-space: nowrap;
+     overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap:normal;
+    word-break: keep-all;
+    
+    
+}
+#t2{
+    width: 200px;
+    height:200px;
+    background-color: #cccc ;
+    overflow: hidden;
+}

@@ -1,0 +1,35 @@
+body{
+    
+    
+   background-image: url(paper.gif);
+    background-repeat:repeat;
+}
+    
+#box1{
+    
+    width: 1000px;
+    height: auto;
+    min-height: 500px;
+    /*background-color: yellow;
+    background-image: url(img_tree.png);
+    background-repeat: no-repeat;
+    background-position: left top;*/
+    background: yellow url(img_tree.png) no-repeat 80% 30%;
+}
+#box3 {
+    width=100px;
+    height: 500px;
+    
+    background-image: url(1.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+    
+   /* #box1{
+        
+        max-width:200%;
+        max-height:500%;
+        background-color: yellow;
+    }*/ 
+    
+    

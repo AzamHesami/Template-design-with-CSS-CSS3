@@ -1,0 +1,33 @@
+/*#img{
+    width: 300px;
+    height: 500px;
+    background-color: brown;
+    object-fit:;
+   
+}*/
+.box{
+   width: 250px;
+    height: 250px;
+    margin: 10px 60px;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    
+}
+#box1{
+    
+    background-color: orangered;
+    padding:100px;
+    border:10px solid;
+    box-sizing: border-box;
+    resize:both;
+    overflow: auto;
+    
+}
+#box2{
+    
+    background-color: #38c91b;
+    padding:80px;
+    border:10px solid;
+    box-sizing:border-box;
+}

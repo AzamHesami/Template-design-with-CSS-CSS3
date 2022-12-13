@@ -1,0 +1,27 @@
+/**{
+    color:blue;
+}
+*/
+h2,p,a{
+    color:mediumvioletred;
+    
+}
+#d1 p{
+    color:blue;
+}
+#d2 p{
+    color:darkgreen;
+}
+
+#d3 >p{
+    
+    color:darkblue
+}
+
+/*#d3 +p{
+    color:red;
+}*/
+
+#d3 ~p{
+    color:red;
+}

@@ -1,0 +1,42 @@
+:root{
+    background-color: beige;
+}
+p:nth-child(3){
+    color:red;
+}
+/*p:nth-child(1n+4){
+    
+    color:aquamarine;
+}*/
+/*p:last-child{
+    color:blue
+}
+P:first-child{
+    color:cornflowerblue;
+}*/
+/*p:nth-last-child(1){
+    color:darkolivegreen;
+}*/
+::selection{
+    background-color: blue;
+    color:brown;
+}
+
+#text::before{
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-color: skyblue;
+    display: inline-block;
+    border-radius: 100%;
+} 
+
+#text::After{
+    content:"After";
+    
+}
+
+
+
+
+
